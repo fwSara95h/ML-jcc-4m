@@ -1,6 +1,6 @@
 # DAY 7 - Error Handling (Exceptions)
 
-Errors bubble up the call stack; `try/except` lets you catch them so one bad input doesn�t crash a whole run. Use `finally` for cleanup that must always happen.
+Errors bubble up the call stack; `try/except` lets you catch them so one bad input doesn't crash a whole run. Use `finally` for cleanup that must always happen.
 
 ## Micro-Challenges
 
