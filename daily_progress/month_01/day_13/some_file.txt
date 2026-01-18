@@ -1,0 +1,2 @@
+first run [deleted old content]
+second run [appended content, preserved first run]
